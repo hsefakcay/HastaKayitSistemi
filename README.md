@@ -1,1 +1,1 @@
-Win_Odev2
+Window Form Uygulaması üzerinde hasta kayıt sistemi uygulaması 
